@@ -1,1 +1,2402 @@
-[{"day": 1, "title": "Saludos", "phrases": [{"es": "Hola", "pl": "Cześć"}, {"es": "Buenos días", "pl": "Dzień dobry"}, {"es": "Buenas tardes", "pl": "Dzień dobry / dobry wieczór"}, {"es": "Hasta luego", "pl": "Do zobaczenia"}]}, {"day": 2, "title": "Presentarse", "phrases": [{"es": "Me llamo Carlos", "pl": "Nazywam się Carlos"}, {"es": "Soy de Polonia", "pl": "Jestem z Polski"}, {"es": "Vivo en Irlanda", "pl": "Mieszkam w Irlandii"}, {"es": "¿Cómo te llamas?", "pl": "Jak masz na imię?"}]}, {"day": 3, "title": "Preguntas básicas", "phrases": [{"es": "¿Qué es esto?", "pl": "Co to jest?"}, {"es": "¿Dónde está el baño?", "pl": "Gdzie jest toaleta?"}, {"es": "¿Cuándo abre?", "pl": "Kiedy jest otwarte?"}, {"es": "¿Cuánto cuesta?", "pl": "Ile kosztuje?"}]}, {"day": 4, "title": "Necesidades", "phrases": [{"es": "Quiero agua", "pl": "Chcę wody"}, {"es": "Necesito ayuda", "pl": "Potrzebuję pomocy"}, {"es": "Tengo una pregunta", "pl": "Mam pytanie"}, {"es": "No tengo efectivo", "pl": "Nie mam gotówki"}]}, {"day": 5, "title": "Cortesía", "phrases": [{"es": "Por favor", "pl": "Proszę"}, {"es": "Muchas gracias", "pl": "Bardzo dziękuję"}, {"es": "Perdone", "pl": "Przepraszam"}, {"es": "De nada", "pl": "Nie ma za co"}]}, {"day": 6, "title": "Conversación breve", "phrases": [{"es": "¿Habla inglés?", "pl": "Czy mówi Pan/Pani po angielsku?"}, {"es": "Hablo un poco de español", "pl": "Mówię trochę po hiszpańsku"}, {"es": "Más despacio, por favor", "pl": "Wolniej, proszę"}, {"es": "No entiendo", "pl": "Nie rozumiem"}]}, {"day": 7, "title": "Repaso inicial", "phrases": [{"es": "¿Cómo está?", "pl": "Jak się Pan/Pani ma?"}, {"es": "Muy bien, gracias", "pl": "Bardzo dobrze, dziękuję"}, {"es": "¿Y usted?", "pl": "A Pan/Pani?"}, {"es": "Encantado", "pl": "Miło mi"}]}, {"day": 8, "title": "En la cafetería", "phrases": [{"es": "Un café con leche, por favor", "pl": "Kawę z mlekiem, proszę"}, {"es": "¿Tiene té?", "pl": "Czy macie herbatę?"}, {"es": "Sin azúcar, por favor", "pl": "Bez cukru, proszę"}, {"es": "Para llevar", "pl": "Na wynos"}]}, {"day": 9, "title": "En el restaurante", "phrases": [{"es": "Una mesa para dos", "pl": "Stolik dla dwóch osób"}, {"es": "¿Tiene el menú?", "pl": "Czy ma Pan/Pani menu?"}, {"es": "Quiero pedir", "pl": "Chcę zamówić"}, {"es": "Está muy rico", "pl": "To bardzo smaczne"}]}, {"day": 10, "title": "La cuenta", "phrases": [{"es": "La cuenta, por favor", "pl": "Rachunek, proszę"}, {"es": "¿Puedo pagar con tarjeta?", "pl": "Czy mogę zapłacić kartą?"}, {"es": "¿Está incluido el servicio?", "pl": "Czy obsługa jest wliczona?"}, {"es": "Por separado, por favor", "pl": "Osobno, proszę"}]}, {"day": 11, "title": "De compras", "phrases": [{"es": "Estoy buscando una camisa", "pl": "Szukam koszuli"}, {"es": "¿Tiene otra talla?", "pl": "Czy ma Pan/Pani inny rozmiar?"}, {"es": "¿Puedo probármelo?", "pl": "Czy mogę to przymierzyć?"}, {"es": "Solo estoy mirando", "pl": "Tylko oglądam"}]}, {"day": 12, "title": "Productos", "phrases": [{"es": "¿Tiene pan?", "pl": "Czy macie chleb?"}, {"es": "Quiero medio kilo", "pl": "Chcę pół kilograma"}, {"es": "¿Dónde está la leche?", "pl": "Gdzie jest mleko?"}, {"es": "¿Hay algo más barato?", "pl": "Czy jest coś tańszego?"}]}, {"day": 13, "title": "Problemas en la tienda", "phrases": [{"es": "Esto está roto", "pl": "To jest zepsute"}, {"es": "Quiero devolverlo", "pl": "Chcę to zwrócić"}, {"es": "Tengo el recibo", "pl": "Mam paragon"}, {"es": "¿Puede ayudarme?", "pl": "Czy może mi Pan/Pani pomóc?"}]}, {"day": 14, "title": "Repaso de compras", "phrases": [{"es": "¿Cuánto es en total?", "pl": "Ile razem?"}, {"es": "Me llevo este", "pl": "Wezmę ten"}, {"es": "¿Aceptan tarjetas?", "pl": "Czy akceptujecie karty?"}, {"es": "Necesito una bolsa", "pl": "Potrzebuję torby"}]}, {"day": 15, "title": "En el aeropuerto", "phrases": [{"es": "¿Dónde está la puerta de embarque?", "pl": "Gdzie jest bramka?"}, {"es": "Tengo una maleta", "pl": "Mam walizkę"}, {"es": "¿A qué hora sale el vuelo?", "pl": "O której odlatuje samolot?"}, {"es": "Mi vuelo está retrasado", "pl": "Mój lot jest opóźniony"}]}, {"day": 16, "title": "En el taxi", "phrases": [{"es": "Al centro, por favor", "pl": "Do centrum, proszę"}, {"es": "¿Cuánto tarda?", "pl": "Ile to potrwa?"}, {"es": "Pare aquí, por favor", "pl": "Proszę zatrzymać się tutaj"}, {"es": "¿Cuánto cuesta el trayecto?", "pl": "Ile kosztuje przejazd?"}]}, {"day": 17, "title": "En el hotel", "phrases": [{"es": "Tengo una reserva", "pl": "Mam rezerwację"}, {"es": "Quiero hacer el registro de entrada", "pl": "Chcę się zameldować"}, {"es": "¿A qué hora es el desayuno?", "pl": "O której jest śniadanie?"}, {"es": "¿Cuál es la contraseña del wifi?", "pl": "Jakie jest hasło do Wi-Fi?"}]}, {"day": 18, "title": "Direcciones", "phrases": [{"es": "¿Cómo llego a la estación?", "pl": "Jak dojść na dworzec?"}, {"es": "Gire a la derecha", "pl": "Skręć w prawo"}, {"es": "Siga recto", "pl": "Proszę iść prosto"}, {"es": "Está a la izquierda", "pl": "Jest po lewej"}]}, {"day": 19, "title": "Transporte público", "phrases": [{"es": "Un billete de ida", "pl": "Bilet w jedną stronę"}, {"es": "¿Dónde está la parada?", "pl": "Gdzie jest przystanek?"}, {"es": "¿Este autobús va al centro?", "pl": "Czy ten autobus jedzie do centrum?"}, {"es": "¿A qué hora llega?", "pl": "O której przyjeżdża?"}]}, {"day": 20, "title": "Emergencias de viaje", "phrases": [{"es": "He perdido mi maleta", "pl": "Zgubiłem walizkę"}, {"es": "Necesito llamar a alguien", "pl": "Muszę do kogoś zadzwonić"}, {"es": "¿Dónde está la policía?", "pl": "Gdzie jest policja?"}, {"es": "Necesito ayuda, por favor", "pl": "Potrzebuję pomocy, proszę"}]}, {"day": 21, "title": "Repaso de viaje", "phrases": [{"es": "Tengo una reserva a mi nombre", "pl": "Mam rezerwację na swoje nazwisko"}, {"es": "¿Puede repetirlo?", "pl": "Czy może Pan/Pani powtórzyć?"}, {"es": "¿Está lejos?", "pl": "Czy to daleko?"}, {"es": "Muchas gracias por su ayuda", "pl": "Bardzo dziękuję za pomoc"}]}, {"day": 22, "title": "Rutina diaria", "phrases": [{"es": "Me levanto a las siete", "pl": "Wstaję o siódmej"}, {"es": "Trabajo por la mañana", "pl": "Pracuję rano"}, {"es": "Como a las dos", "pl": "Jem o drugiej"}, {"es": "Me acuesto tarde", "pl": "Kładę się późno"}]}, {"day": 23, "title": "Familia", "phrases": [{"es": "Tengo dos hijas", "pl": "Mam dwie córki"}, {"es": "Estoy casado", "pl": "Jestem żonaty"}, {"es": "Mi familia vive en Irlanda", "pl": "Moja rodzina mieszka w Irlandii"}, {"es": "¿Tiene hijos?", "pl": "Czy ma Pan/Pani dzieci?"}]}, {"day": 24, "title": "Trabajo", "phrases": [{"es": "Trabajo en transporte", "pl": "Pracuję w transporcie"}, {"es": "Tengo mi propia empresa", "pl": "Mam własną firmę"}, {"es": "Soy conductor", "pl": "Jestem kierowcą"}, {"es": "¿A qué se dedica?", "pl": "Czym się Pan/Pani zajmuje?"}]}, {"day": 25, "title": "Aficiones", "phrases": [{"es": "Me gusta jugar al tenis", "pl": "Lubię grać w tenisa"}, {"es": "Juego dos veces por semana", "pl": "Gram dwa razy w tygodniu"}, {"es": "¿Qué hace en su tiempo libre?", "pl": "Co robi Pan/Pani w wolnym czasie?"}, {"es": "Me gusta viajar", "pl": "Lubię podróżować"}]}, {"day": 26, "title": "Opiniones", "phrases": [{"es": "Me gusta mucho", "pl": "Bardzo mi się podoba"}, {"es": "No me gusta", "pl": "Nie podoba mi się"}, {"es": "Creo que sí", "pl": "Myślę, że tak"}, {"es": "Prefiero esto", "pl": "Wolę to"}]}, {"day": 27, "title": "Conocer gente", "phrases": [{"es": "¿De dónde eres?", "pl": "Skąd jesteś?"}, {"es": "¿Es tu primera vez aquí?", "pl": "Jesteś tu pierwszy raz?"}, {"es": "¿Qué te parece España?", "pl": "Co sądzisz o Hiszpanii?"}, {"es": "¿Vienes a menudo?", "pl": "Przyjeżdżasz często?"}]}, {"day": 28, "title": "Repaso social", "phrases": [{"es": "¿Qué tal el día?", "pl": "Jak mija dzień?"}, {"es": "Todo bien", "pl": "Wszystko dobrze"}, {"es": "¿Qué planes tienes?", "pl": "Jakie masz plany?"}, {"es": "Nos vemos mañana", "pl": "Do zobaczenia jutro"}]}, {"day": 29, "title": "Planes", "phrases": [{"es": "Voy a visitar Madrid", "pl": "Zamierzam odwiedzić Madryt"}, {"es": "Mañana voy a descansar", "pl": "Jutro zamierzam odpocząć"}, {"es": "¿Qué vas a hacer?", "pl": "Co zamierzasz robić?"}, {"es": "Vamos a salir", "pl": "Zamierzamy wyjść"}]}, {"day": 30, "title": "Invitaciones", "phrases": [{"es": "¿Quieres tomar un café?", "pl": "Chcesz wypić kawę?"}, {"es": "¿A qué hora quedamos?", "pl": "O której się spotykamy?"}, {"es": "Me viene bien a las seis", "pl": "Pasuje mi o szóstej"}, {"es": "Lo siento, no puedo", "pl": "Przykro mi, nie mogę"}]}, {"day": 31, "title": "El tiempo", "phrases": [{"es": "Hace mucho calor", "pl": "Jest bardzo gorąco"}, {"es": "Hoy hace sol", "pl": "Dzisiaj świeci słońce"}, {"es": "Parece que va a llover", "pl": "Wygląda na to, że będzie padać"}, {"es": "¿Qué tiempo hace?", "pl": "Jaka jest pogoda?"}]}, {"day": 32, "title": "El pasado", "phrases": [{"es": "Ayer fui al centro", "pl": "Wczoraj poszedłem do centrum"}, {"es": "Comí en un restaurante", "pl": "Zjadłem w restauracji"}, {"es": "Vi un museo", "pl": "Zwiedziłem muzeum"}, {"es": "Fue interesante", "pl": "To było interesujące"}]}, {"day": 33, "title": "El fin de semana", "phrases": [{"es": "El sábado jugué al tenis", "pl": "W sobotę grałem w tenisa"}, {"es": "El domingo descansé", "pl": "W niedzielę odpoczywałem"}, {"es": "Pasé tiempo con mi familia", "pl": "Spędziłem czas z rodziną"}, {"es": "¿Qué hiciste ayer?", "pl": "Co robiłeś wczoraj?"}]}, {"day": 34, "title": "Comparaciones", "phrases": [{"es": "Este es mejor", "pl": "Ten jest lepszy"}, {"es": "Es más barato", "pl": "Jest tańszy"}, {"es": "Me gusta más este", "pl": "Ten podoba mi się bardziej"}, {"es": "Es demasiado caro", "pl": "To jest za drogie"}]}, {"day": 35, "title": "Repaso de planes", "phrases": [{"es": "Voy a quedarme tres días", "pl": "Zamierzam zostać trzy dni"}, {"es": "Ayer estuve aquí", "pl": "Wczoraj tu byłem"}, {"es": "Prefiero ir mañana", "pl": "Wolę iść jutro"}, {"es": "¿Podemos quedar el viernes?", "pl": "Możemy się spotkać w piątek?"}]}, {"day": 36, "title": "Problemas en el hotel", "phrases": [{"es": "No funciona el aire acondicionado", "pl": "Klimatyzacja nie działa"}, {"es": "La habitación está sucia", "pl": "Pokój jest brudny"}, {"es": "Necesito otra habitación", "pl": "Potrzebuję innego pokoju"}, {"es": "¿Puede solucionarlo?", "pl": "Czy może Pan/Pani to rozwiązać?"}]}, {"day": 37, "title": "Devoluciones", "phrases": [{"es": "Quiero cambiar esto", "pl": "Chcę to wymienić"}, {"es": "No es mi talla", "pl": "To nie mój rozmiar"}, {"es": "Lo compré ayer", "pl": "Kupiłem to wczoraj"}, {"es": "¿Me devuelve el dinero?", "pl": "Czy zwróci mi Pan/Pani pieniądze?"}]}, {"day": 38, "title": "En la farmacia", "phrases": [{"es": "Me duele la cabeza", "pl": "Boli mnie głowa"}, {"es": "Tengo fiebre", "pl": "Mam gorączkę"}, {"es": "¿Tiene algo para el dolor?", "pl": "Czy ma Pan/Pani coś przeciwbólowego?"}, {"es": "Soy alérgico a esto", "pl": "Mam na to alergię"}]}, {"day": 39, "title": "Aclaraciones", "phrases": [{"es": "No he entendido", "pl": "Nie zrozumiałem"}, {"es": "¿Qué significa esta palabra?", "pl": "Co oznacza to słowo?"}, {"es": "¿Puede hablar más despacio?", "pl": "Czy może Pan/Pani mówić wolniej?"}, {"es": "¿Puede escribirlo?", "pl": "Czy może Pan/Pani to zapisać?"}]}, {"day": 40, "title": "Cambiar reservas", "phrases": [{"es": "Quiero cambiar la reserva", "pl": "Chcę zmienić rezerwację"}, {"es": "¿Hay otra hora disponible?", "pl": "Czy jest dostępna inna godzina?"}, {"es": "Necesito cancelar", "pl": "Muszę anulować"}, {"es": "¿Es posible mañana?", "pl": "Czy jest możliwe jutro?"}]}, {"day": 41, "title": "Resolver problemas", "phrases": [{"es": "Hay un problema", "pl": "Jest problem"}, {"es": "¿Qué podemos hacer?", "pl": "Co możemy zrobić?"}, {"es": "¿Puede ofrecer otra opción?", "pl": "Czy może Pan/Pani zaproponować inną opcję?"}, {"es": "Muchas gracias por resolverlo", "pl": "Dziękuję za rozwiązanie problemu"}]}, {"day": 42, "title": "Repaso de problemas", "phrases": [{"es": "Necesito hablar con el encargado", "pl": "Muszę porozmawiać z kierownikiem"}, {"es": "¿Puede explicármelo?", "pl": "Czy może mi Pan/Pani to wyjaśnić?"}, {"es": "Esto no es lo que pedí", "pl": "To nie to, co zamówiłem"}, {"es": "¿Hay alguna solución?", "pl": "Czy jest jakieś rozwiązanie?"}]}, {"day": 43, "title": "España y Polonia", "phrases": [{"es": "Soy polaco", "pl": "Jestem Polakiem"}, {"es": "Llevo muchos años en Irlanda", "pl": "Mieszkam od wielu lat w Irlandii"}, {"es": "España me encanta", "pl": "Uwielbiam Hiszpanię"}, {"es": "¿Conoces Polonia?", "pl": "Znasz Polskę?"}]}, {"day": 44, "title": "Viajes", "phrases": [{"es": "He visitado Barcelona", "pl": "Odwiedziłem Barcelonę"}, {"es": "Me gusta conocer sitios nuevos", "pl": "Lubię poznawać nowe miejsca"}, {"es": "¿Qué lugares recomiendas?", "pl": "Jakie miejsca polecasz?"}, {"es": "Quiero volver el año que viene", "pl": "Chcę wrócić w przyszłym roku"}]}, {"day": 45, "title": "Vida cotidiana", "phrases": [{"es": "Hoy he tenido mucho trabajo", "pl": "Dzisiaj miałem dużo pracy"}, {"es": "Normalmente trabajo por la mañana", "pl": "Zwykle pracuję rano"}, {"es": "Por la tarde juego al tenis", "pl": "Po południu gram w tenisa"}, {"es": "¿Cómo es tu día?", "pl": "Jak wygląda twój dzień?"}]}, {"day": 46, "title": "Dar razones", "phrases": [{"es": "Porque es interesante", "pl": "Ponieważ to interesujące"}, {"es": "Pienso que es una buena idea", "pl": "Myślę, że to dobry pomysł"}, {"es": "Estoy de acuerdo", "pl": "Zgadzam się"}, {"es": "No estoy seguro", "pl": "Nie jestem pewien"}]}, {"day": 47, "title": "Mantener la conversación", "phrases": [{"es": "¿Y tú qué opinas?", "pl": "A ty co sądzisz?"}, {"es": "Cuéntame más", "pl": "Opowiedz mi więcej"}, {"es": "¡Qué interesante!", "pl": "Jakie to ciekawe!"}, {"es": "¿En serio?", "pl": "Naprawdę?"}]}, {"day": 48, "title": "Conversación natural", "phrases": [{"es": "Pues, depende", "pl": "Cóż, to zależy"}, {"es": "A ver, déjame pensar", "pl": "Chwileczkę, pomyślę"}, {"es": "Por ejemplo", "pl": "Na przykład"}, {"es": "Lo que quiero decir es...", "pl": "Chodzi mi o to, że..."}]}, {"day": 49, "title": "Repaso de conversación", "phrases": [{"es": "Me gustaría saber más", "pl": "Chciałbym wiedzieć więcej"}, {"es": "¿Por qué te gusta?", "pl": "Dlaczego to lubisz?"}, {"es": "Eso me parece bien", "pl": "To wydaje mi się dobre"}, {"es": "Ha sido un placer hablar contigo", "pl": "Miło było z tobą porozmawiać"}]}, {"day": 50, "title": "Día de llegada", "phrases": [{"es": "Acabo de llegar", "pl": "Właśnie przyjechałem"}, {"es": "¿Dónde puedo coger un taxi?", "pl": "Gdzie mogę wziąć taksówkę?"}, {"es": "Tengo una reserva en el hotel", "pl": "Mam rezerwację w hotelu"}, {"es": "¿Puede llevarme allí?", "pl": "Czy może mnie Pan/Pani tam zawieźć?"}]}, {"day": 51, "title": "Día de restaurante", "phrases": [{"es": "¿Qué me recomienda?", "pl": "Co Pan/Pani poleca?"}, {"es": "¿Lleva carne?", "pl": "Czy zawiera mięso?"}, {"es": "Para mí, pescado", "pl": "Dla mnie ryba"}, {"es": "Estaba todo muy bueno", "pl": "Wszystko było bardzo dobre"}]}, {"day": 52, "title": "Día de compras", "phrases": [{"es": "¿Está abierto mañana?", "pl": "Czy jutro jest otwarte?"}, {"es": "Busco un regalo", "pl": "Szukam prezentu"}, {"es": "¿Lo tiene en azul?", "pl": "Czy ma Pan/Pani to w niebieskim?"}, {"es": "Me lo llevo", "pl": "Wezmę to"}]}, {"day": 53, "title": "Día de turismo", "phrases": [{"es": "¿Qué hay que ver aquí?", "pl": "Co warto tu zobaczyć?"}, {"es": "¿Hay visitas guiadas?", "pl": "Czy są wycieczki z przewodnikiem?"}, {"es": "¿Cuánto dura la visita?", "pl": "Jak długo trwa zwiedzanie?"}, {"es": "¿Dónde compro entradas?", "pl": "Gdzie kupię bilety?"}]}, {"day": 54, "title": "Día de imprevistos", "phrases": [{"es": "He perdido el teléfono", "pl": "Zgubiłem telefon"}, {"es": "Mi tren ha sido cancelado", "pl": "Mój pociąg został odwołany"}, {"es": "Necesito cambiar mis planes", "pl": "Muszę zmienić plany"}, {"es": "¿Qué me recomienda hacer?", "pl": "Co radzi mi Pan/Pani zrobić?"}]}, {"day": 55, "title": "Día completo", "phrases": [{"es": "Primero voy al hotel", "pl": "Najpierw jadę do hotelu"}, {"es": "Después quiero comer", "pl": "Potem chcę zjeść"}, {"es": "Por la tarde voy a pasear", "pl": "Po południu idę na spacer"}, {"es": "Por la noche vuelvo", "pl": "Wieczorem wracam"}]}, {"day": 56, "title": "Examen de viaje", "phrases": [{"es": "¿Podemos empezar?", "pl": "Możemy zacząć?"}, {"es": "Estoy listo", "pl": "Jestem gotowy"}, {"es": "¿Puede repetir la pregunta?", "pl": "Czy może Pan/Pani powtórzyć pytanie?"}, {"es": "Quiero intentarlo otra vez", "pl": "Chcę spróbować ponownie"}]}, {"day": 57, "title": "Repaso final", "phrases": [{"es": "¿Cómo se dice en español?", "pl": "Jak to się mówi po hiszpańsku?"}, {"es": "No recuerdo la palabra", "pl": "Nie pamiętam słowa"}, {"es": "Voy a intentarlo", "pl": "Spróbuję"}, {"es": "Ahora lo entiendo", "pl": "Teraz rozumiem"}]}, {"day": 58, "title": "Conversación libre", "phrases": [{"es": "¿Qué te gusta hacer?", "pl": "Co lubisz robić?"}, {"es": "¿Desde cuándo vives aquí?", "pl": "Od kiedy tu mieszkasz?"}, {"es": "¿Qué hiciste ayer?", "pl": "Co robiłeś wczoraj?"}, {"es": "¿Qué harás mañana?", "pl": "Co będziesz robić jutro?"}]}, {"day": 59, "title": "Examen final", "phrases": [{"es": "Quisiera reservar una mesa", "pl": "Chciałbym zarezerwować stolik"}, {"es": "Necesito llegar al aeropuerto", "pl": "Muszę dotrzeć na lotnisko"}, {"es": "¿Puede ayudarme con esto?", "pl": "Czy może Pan/Pani mi z tym pomóc?"}, {"es": "Muchas gracias, hasta pronto", "pl": "Dziękuję bardzo, do zobaczenia"}]}, {"day": 60, "title": "Próximos pasos", "phrases": [{"es": "Cada día entiendo más", "pl": "Każdego dnia rozumiem więcej"}, {"es": "Todavía necesito practicar", "pl": "Nadal muszę ćwiczyć"}, {"es": "Quiero seguir aprendiendo", "pl": "Chcę uczyć się dalej"}, {"es": "¡Hasta la próxima!", "pl": "Do następnego razu!"}]}]
+[
+  {
+    "day": 1,
+    "title": "Wymowa i powitania",
+    "focus": "Wymowa i akcent",
+    "explain": "Hiszpańskie h jest nieme. Litera ñ brzmi jak polskie ń. Akcent graficzny wskazuje sylabę akcentowaną.",
+    "phrases": [
+      {
+        "es": "Hola",
+        "pl": "Cześć"
+      },
+      {
+        "es": "Buenos días",
+        "pl": "Dzień dobry rano"
+      },
+      {
+        "es": "Buenas tardes",
+        "pl": "Dzień dobry po południu"
+      },
+      {
+        "es": "Buenas noches",
+        "pl": "Dobry wieczór lub dobranoc"
+      },
+      {
+        "es": "¿Cómo estás?",
+        "pl": "Jak się masz?"
+      },
+      {
+        "es": "Muy bien, gracias",
+        "pl": "Bardzo dobrze, dziękuję"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: wymowa i powitania. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Hola». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Buenas tardes». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «¿Cómo estás?», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Wymowa i powitania”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 2,
+    "title": "Przedstawianie się: ser",
+    "focus": "Ser w czasie teraźniejszym",
+    "explain": "Soy to jestem, eres to jesteś, es to jest. Zaimki yo i tú często pomijamy, bo końcówka czasownika wskazuje osobę.",
+    "phrases": [
+      {
+        "es": "Soy de Polonia",
+        "pl": "Jestem z Polski"
+      },
+      {
+        "es": "Vivo en Irlanda",
+        "pl": "Mieszkam w Irlandii"
+      },
+      {
+        "es": "Me llamo Carlos",
+        "pl": "Nazywam się Carlos"
+      },
+      {
+        "es": "¿Cómo te llamas?",
+        "pl": "Jak masz na imię?"
+      },
+      {
+        "es": "Soy polaco",
+        "pl": "Jestem Polakiem"
+      },
+      {
+        "es": "Ella es española",
+        "pl": "Ona jest Hiszpanką"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: przedstawianie się: ser. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Soy de Polonia». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Me llamo Carlos». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Soy polaco», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Przedstawianie się: ser”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 3,
+    "title": "Estar i samopoczucie",
+    "focus": "Ser kontra estar",
+    "explain": "Ser określa tożsamość i cechy, a estar samopoczucie oraz położenie. Estoy oznacza jestem w danym stanie lub miejscu.",
+    "phrases": [
+      {
+        "es": "Estoy bien",
+        "pl": "Czuję się dobrze"
+      },
+      {
+        "es": "Estoy cansado",
+        "pl": "Jestem zmęczony"
+      },
+      {
+        "es": "¿Dónde estás?",
+        "pl": "Gdzie jesteś?"
+      },
+      {
+        "es": "Estoy en casa",
+        "pl": "Jestem w domu"
+      },
+      {
+        "es": "El hotel está aquí",
+        "pl": "Hotel jest tutaj"
+      },
+      {
+        "es": "Soy de Polonia",
+        "pl": "Pochodzę z Polski"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: estar i samopoczucie. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Estoy bien». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «¿Dónde estás?». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «El hotel está aquí», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Estar i samopoczucie”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 4,
+    "title": "Rodzajniki i rzeczowniki",
+    "focus": "El, la, un, una",
+    "explain": "Rzeczowniki mają rodzaj. El i la oznaczają konkretną rzecz; un i una to jeden, jakaś. Ucz się słów razem z rodzajnikiem.",
+    "phrases": [
+      {
+        "es": "El libro",
+        "pl": "Książka"
+      },
+      {
+        "es": "La mesa",
+        "pl": "Stół"
+      },
+      {
+        "es": "Un hotel",
+        "pl": "Jakiś hotel"
+      },
+      {
+        "es": "Una casa",
+        "pl": "Jakiś dom"
+      },
+      {
+        "es": "El restaurante",
+        "pl": "Restauracja"
+      },
+      {
+        "es": "La estación",
+        "pl": "Stacja"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: rodzajniki i rzeczowniki. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «El libro». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Un hotel». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «El restaurante», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Rodzajniki i rzeczowniki”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 5,
+    "title": "Liczba mnoga i przymiotniki",
+    "focus": "Zgodność rodzaju i liczby",
+    "explain": "Zwykle dodajemy -s po samogłosce i -es po spółgłosce. Przymiotnik dopasowuje się do rzeczownika: casa bonita, coches bonitos.",
+    "phrases": [
+      {
+        "es": "Un coche rojo",
+        "pl": "Czerwony samochód"
+      },
+      {
+        "es": "Dos coches rojos",
+        "pl": "Dwa czerwone samochody"
+      },
+      {
+        "es": "Una casa bonita",
+        "pl": "Ładny dom"
+      },
+      {
+        "es": "Dos casas bonitas",
+        "pl": "Dwa ładne domy"
+      },
+      {
+        "es": "El hotel es grande",
+        "pl": "Hotel jest duży"
+      },
+      {
+        "es": "Las mesas son pequeñas",
+        "pl": "Stoły są małe"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: liczba mnoga i przymiotniki. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Un coche rojo». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Una casa bonita». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «El hotel es grande», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Liczba mnoga i przymiotniki”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 6,
+    "title": "Tener, wiek i rodzina",
+    "focus": "Tener i wyrażanie wieku",
+    "explain": "W hiszpańskim mówi się dosłownie mam lata: tengo cuarenta años. Tener służy też do potrzeb: tengo hambre, tengo sed.",
+    "phrases": [
+      {
+        "es": "Tengo dos hijas",
+        "pl": "Mam dwie córki"
+      },
+      {
+        "es": "Tengo cuarenta años",
+        "pl": "Mam czterdzieści lat"
+      },
+      {
+        "es": "Tengo hambre",
+        "pl": "Jestem głodny"
+      },
+      {
+        "es": "Tengo sed",
+        "pl": "Chce mi się pić"
+      },
+      {
+        "es": "¿Tienes hermanos?",
+        "pl": "Masz rodzeństwo?"
+      },
+      {
+        "es": "Mi familia vive aquí",
+        "pl": "Moja rodzina mieszka tutaj"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: tener, wiek i rodzina. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Tengo dos hijas». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Tengo hambre». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «¿Tienes hermanos?», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Tener, wiek i rodzina”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 7,
+    "title": "Liczby i ceny",
+    "focus": "Liczby 0–100",
+    "explain": "Ćwicz głośno liczby i ceny. Przy 21–29 często występuje zapis łączny: veintiuno, veintidós, veintitrés.",
+    "phrases": [
+      {
+        "es": "Cuesta diez euros",
+        "pl": "Kosztuje dziesięć euro"
+      },
+      {
+        "es": "Son veinte euros",
+        "pl": "To dwadzieścia euro"
+      },
+      {
+        "es": "Tengo treinta años",
+        "pl": "Mam trzydzieści lat"
+      },
+      {
+        "es": "El número es cuarenta y dos",
+        "pl": "Numer to czterdzieści dwa"
+      },
+      {
+        "es": "Quiero dos billetes",
+        "pl": "Chcę dwa bilety"
+      },
+      {
+        "es": "Son noventa euros",
+        "pl": "To dziewięćdziesiąt euro"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: liczby i ceny. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Cuesta diez euros». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Tengo treinta años». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Quiero dos billetes», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Liczby i ceny”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 8,
+    "title": "Czasowniki regularne -ar",
+    "focus": "Hablar, trabajar, comprar",
+    "explain": "W czasie teraźniejszym: hablo, hablas, habla, hablamos, habláis, hablan. W Hiszpanii używa się vosotros dla nieformalnej liczby mnogiej.",
+    "phrases": [
+      {
+        "es": "Hablo español",
+        "pl": "Mówię po hiszpańsku"
+      },
+      {
+        "es": "Trabajo en Irlanda",
+        "pl": "Pracuję w Irlandii"
+      },
+      {
+        "es": "¿Hablas inglés?",
+        "pl": "Mówisz po angielsku?"
+      },
+      {
+        "es": "Compramos pan",
+        "pl": "Kupujemy chleb"
+      },
+      {
+        "es": "Ellos trabajan aquí",
+        "pl": "Oni pracują tutaj"
+      },
+      {
+        "es": "Vosotros habláis rápido",
+        "pl": "Wy mówicie szybko"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: czasowniki regularne -ar. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Hablo español». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «¿Hablas inglés?». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Ellos trabajan aquí», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Czasowniki regularne -ar”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 9,
+    "title": "Czasowniki -er i -ir",
+    "focus": "Comer, beber, vivir",
+    "explain": "Comer: como, comes, come. Vivir: vivo, vives, vive. Zwracaj uwagę na różne końcówki pierwszej i drugiej osoby mnogiej.",
+    "phrases": [
+      {
+        "es": "Como pescado",
+        "pl": "Jem rybę"
+      },
+      {
+        "es": "Bebo agua",
+        "pl": "Piję wodę"
+      },
+      {
+        "es": "Vivo en Irlanda",
+        "pl": "Mieszkam w Irlandii"
+      },
+      {
+        "es": "¿Dónde vives?",
+        "pl": "Gdzie mieszkasz?"
+      },
+      {
+        "es": "Comemos juntos",
+        "pl": "Jemy razem"
+      },
+      {
+        "es": "Escribo un mensaje",
+        "pl": "Piszę wiadomość"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: czasowniki -er i -ir. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Como pescado». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Vivo en Irlanda». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Comemos juntos», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Czasowniki -er i -ir”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 10,
+    "title": "Test fundamentów",
+    "focus": "Powtórka dni 1–9",
+    "explain": "Sprawdź samodzielnie ser, estar, tener, rodzajniki i czas teraźniejszy. Wypowiedz odpowiedź przed jej sprawdzeniem.",
+    "phrases": [
+      {
+        "es": "Soy de Polonia",
+        "pl": "Jestem z Polski"
+      },
+      {
+        "es": "Estoy en el hotel",
+        "pl": "Jestem w hotelu"
+      },
+      {
+        "es": "Tengo dos hijas",
+        "pl": "Mam dwie córki"
+      },
+      {
+        "es": "La casa es grande",
+        "pl": "Dom jest duży"
+      },
+      {
+        "es": "Hablo un poco de español",
+        "pl": "Mówię trochę po hiszpańsku"
+      },
+      {
+        "es": "¿Dónde vives?",
+        "pl": "Gdzie mieszkasz?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: test fundamentów. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": true,
+    "speaking": [
+      "Zacznij od: «Soy de Polonia». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Tengo dos hijas». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Hablo un poco de español», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Test fundamentów”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 11,
+    "title": "Pytania po hiszpańsku",
+    "focus": "Qué, quién, dónde, cuándo, cómo",
+    "explain": "Hiszpańskie pytania mają odwrócony znak na początku. Zapamiętaj całe konstrukcje: ¿Dónde está...? ¿Cuánto cuesta...?",
+    "phrases": [
+      {
+        "es": "¿Qué es esto?",
+        "pl": "Co to jest?"
+      },
+      {
+        "es": "¿Quién es?",
+        "pl": "Kto to jest?"
+      },
+      {
+        "es": "¿Dónde está el baño?",
+        "pl": "Gdzie jest toaleta?"
+      },
+      {
+        "es": "¿Cuándo abre?",
+        "pl": "Kiedy otwierają?"
+      },
+      {
+        "es": "¿Cómo te llamas?",
+        "pl": "Jak masz na imię?"
+      },
+      {
+        "es": "¿Por qué?",
+        "pl": "Dlaczego?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: pytania po hiszpańsku. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «¿Qué es esto?». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «¿Dónde está el baño?». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «¿Cómo te llamas?», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Pytania po hiszpańsku”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 12,
+    "title": "Przeczenia i krótkie odpowiedzi",
+    "focus": "No, nunca, tampoco",
+    "explain": "No stawiamy przed czasownikiem. Tampoco oznacza też nie, a también oznacza też w zdaniu twierdzącym.",
+    "phrases": [
+      {
+        "es": "No hablo francés",
+        "pl": "Nie mówię po francusku"
+      },
+      {
+        "es": "No tengo dinero",
+        "pl": "Nie mam pieniędzy"
+      },
+      {
+        "es": "Nunca bebo café",
+        "pl": "Nigdy nie piję kawy"
+      },
+      {
+        "es": "Yo tampoco",
+        "pl": "Ja też nie"
+      },
+      {
+        "es": "Yo también",
+        "pl": "Ja też"
+      },
+      {
+        "es": "No entiendo",
+        "pl": "Nie rozumiem"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: przeczenia i krótkie odpowiedzi. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «No hablo francés». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Nunca bebo café». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Yo también», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Przeczenia i krótkie odpowiedzi”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 13,
+    "title": "Chcę, mogę, potrzebuję",
+    "focus": "Querer, poder, necesitar + infinitivo",
+    "explain": "Po quiero, puedo i necesito drugi czasownik zostaje w bezokoliczniku: quiero reservar, a nie quiero reservo.",
+    "phrases": [
+      {
+        "es": "Quiero reservar una mesa",
+        "pl": "Chcę zarezerwować stolik"
+      },
+      {
+        "es": "Puedo pagar con tarjeta",
+        "pl": "Mogę zapłacić kartą"
+      },
+      {
+        "es": "Necesito ayuda",
+        "pl": "Potrzebuję pomocy"
+      },
+      {
+        "es": "¿Puedes repetir?",
+        "pl": "Możesz powtórzyć?"
+      },
+      {
+        "es": "Quiero comprar un billete",
+        "pl": "Chcę kupić bilet"
+      },
+      {
+        "es": "No puedo venir",
+        "pl": "Nie mogę przyjść"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: chcę, mogę, potrzebuję. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Quiero reservar una mesa». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Necesito ayuda». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Quiero comprar un billete», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Chcę, mogę, potrzebuję”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 14,
+    "title": "Ir i przemieszczanie się",
+    "focus": "Ir a + miejsce",
+    "explain": "Voy to idę lub jadę, vas to idziesz, va to idzie. Przed miejscem używamy a; a + el tworzy al.",
+    "phrases": [
+      {
+        "es": "Voy al centro",
+        "pl": "Idę do centrum"
+      },
+      {
+        "es": "Vamos al restaurante",
+        "pl": "Idziemy do restauracji"
+      },
+      {
+        "es": "¿Adónde vas?",
+        "pl": "Dokąd idziesz?"
+      },
+      {
+        "es": "Voy a casa",
+        "pl": "Idę do domu"
+      },
+      {
+        "es": "Ella va al hotel",
+        "pl": "Ona idzie do hotelu"
+      },
+      {
+        "es": "Vamos a España",
+        "pl": "Jedziemy do Hiszpanii"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: ir i przemieszczanie się. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Voy al centro». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «¿Adónde vas?». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Ella va al hotel», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Ir i przemieszczanie się”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 15,
+    "title": "Godziny i daty",
+    "focus": "Qué hora es, a qué hora",
+    "explain": "Es la una dla pierwszej; son las dos dla pozostałych. A las wskazuje godzinę wydarzenia.",
+    "phrases": [
+      {
+        "es": "¿Qué hora es?",
+        "pl": "Która godzina?"
+      },
+      {
+        "es": "Son las tres",
+        "pl": "Jest trzecia"
+      },
+      {
+        "es": "Es la una",
+        "pl": "Jest pierwsza"
+      },
+      {
+        "es": "¿A qué hora abre?",
+        "pl": "O której otwierają?"
+      },
+      {
+        "es": "Mañana es martes",
+        "pl": "Jutro jest wtorek"
+      },
+      {
+        "es": "Hoy es lunes",
+        "pl": "Dzisiaj jest poniedziałek"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: godziny i daty. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «¿Qué hora es?». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Es la una». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Mañana es martes», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Godziny i daty”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 16,
+    "title": "Hacer i pogoda",
+    "focus": "Hace frío, hace calor",
+    "explain": "Hacer ma wiele zastosowań. W pogodzie często mówimy hace calor, hace frío; gdy pada deszcz, llueve.",
+    "phrases": [
+      {
+        "es": "Hace calor",
+        "pl": "Jest gorąco"
+      },
+      {
+        "es": "Hace frío",
+        "pl": "Jest zimno"
+      },
+      {
+        "es": "Hoy hace sol",
+        "pl": "Dzisiaj świeci słońce"
+      },
+      {
+        "es": "Está lloviendo",
+        "pl": "Pada deszcz"
+      },
+      {
+        "es": "¿Qué haces?",
+        "pl": "Co robisz?"
+      },
+      {
+        "es": "Hago ejercicio",
+        "pl": "Ćwiczę"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: hacer i pogoda. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Hace calor». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Hoy hace sol». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «¿Qué haces?», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Hacer i pogoda”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 17,
+    "title": "Lubię i nie lubię",
+    "focus": "Gustar",
+    "explain": "Me gusta + rzeczownik pojedynczy lub bezokolicznik. Me gustan + rzeczownik mnogi. To inna konstrukcja niż polskie lubię.",
+    "phrases": [
+      {
+        "es": "Me gusta el café",
+        "pl": "Lubię kawę"
+      },
+      {
+        "es": "Me gustan las playas",
+        "pl": "Lubię plaże"
+      },
+      {
+        "es": "No me gusta el pescado",
+        "pl": "Nie lubię ryby"
+      },
+      {
+        "es": "Me gusta jugar al tenis",
+        "pl": "Lubię grać w tenisa"
+      },
+      {
+        "es": "¿Te gusta España?",
+        "pl": "Lubisz Hiszpanię?"
+      },
+      {
+        "es": "Me encanta esta ciudad",
+        "pl": "Uwielbiam to miasto"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: lubię i nie lubię. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Me gusta el café». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «No me gusta el pescado». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «¿Te gusta España?», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Lubię i nie lubię”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 18,
+    "title": "Kawiarnia",
+    "focus": "Zamawianie i por favor",
+    "explain": "W Hiszpanii naturalne jest un café con leche, por favor. Ucz się krótkich, uprzejmych zamówień.",
+    "phrases": [
+      {
+        "es": "Un café con leche, por favor",
+        "pl": "Kawę z mlekiem, proszę"
+      },
+      {
+        "es": "Quiero un té",
+        "pl": "Chcę herbatę"
+      },
+      {
+        "es": "Sin azúcar, por favor",
+        "pl": "Bez cukru, proszę"
+      },
+      {
+        "es": "Para llevar",
+        "pl": "Na wynos"
+      },
+      {
+        "es": "¿Tiene agua sin gas?",
+        "pl": "Czy mają Państwo wodę niegazowaną?"
+      },
+      {
+        "es": "La cuenta, por favor",
+        "pl": "Rachunek, proszę"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: kawiarnia. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Un café con leche, por favor». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Sin azúcar, por favor». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «¿Tiene agua sin gas?», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Kawiarnia”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 19,
+    "title": "Restauracja",
+    "focus": "Rezerwacje i uprzejme prośby",
+    "explain": "Me gustaría to uprzejme chciałbym. Para dos personas oznacza dla dwóch osób. Na jutro to para mañana.",
+    "phrases": [
+      {
+        "es": "Me gustaría reservar una mesa",
+        "pl": "Chciałbym zarezerwować stolik"
+      },
+      {
+        "es": "Para dos personas",
+        "pl": "Dla dwóch osób"
+      },
+      {
+        "es": "¿Tiene una mesa libre?",
+        "pl": "Czy mają Państwo wolny stolik?"
+      },
+      {
+        "es": "Quiero el menú, por favor",
+        "pl": "Poproszę menu"
+      },
+      {
+        "es": "Soy alérgico a los frutos secos",
+        "pl": "Mam alergię na orzechy"
+      },
+      {
+        "es": "¿Qué recomienda?",
+        "pl": "Co Pan lub Pani poleca?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: restauracja. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Me gustaría reservar una mesa». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «¿Tiene una mesa libre?». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Soy alérgico a los frutos secos», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Restauracja”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 20,
+    "title": "Test rozmów codziennych",
+    "focus": "Powtórka dni 11–19",
+    "explain": "W teście łącz pytania, czasowniki modalne, godzinę i zamawianie. Odpowiadaj bez podglądania.",
+    "phrases": [
+      {
+        "es": "¿Cuánto cuesta?",
+        "pl": "Ile to kosztuje?"
+      },
+      {
+        "es": "Quiero reservar una mesa",
+        "pl": "Chcę zarezerwować stolik"
+      },
+      {
+        "es": "¿A qué hora abre?",
+        "pl": "O której otwierają?"
+      },
+      {
+        "es": "No puedo venir mañana",
+        "pl": "Nie mogę przyjść jutro"
+      },
+      {
+        "es": "Me gusta el café",
+        "pl": "Lubię kawę"
+      },
+      {
+        "es": "La cuenta, por favor",
+        "pl": "Rachunek, proszę"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: test rozmów codziennych. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": true,
+    "speaking": [
+      "Zacznij od: «¿Cuánto cuesta?». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «¿A qué hora abre?». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Me gusta el café», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Test rozmów codziennych”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 21,
+    "title": "Przyimki miejsca",
+    "focus": "En, a, de, cerca de",
+    "explain": "En oznacza w lub na; a kierunek; de pochodzenie. Cerca de to blisko, delante de to przed.",
+    "phrases": [
+      {
+        "es": "Estoy en el hotel",
+        "pl": "Jestem w hotelu"
+      },
+      {
+        "es": "Voy al aeropuerto",
+        "pl": "Jadę na lotnisko"
+      },
+      {
+        "es": "Soy de Polonia",
+        "pl": "Jestem z Polski"
+      },
+      {
+        "es": "Está cerca de aquí",
+        "pl": "To jest blisko stąd"
+      },
+      {
+        "es": "Está delante del banco",
+        "pl": "To jest przed bankiem"
+      },
+      {
+        "es": "Está a la derecha",
+        "pl": "To jest po prawej"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: przyimki miejsca. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Estoy en el hotel». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Soy de Polonia». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Está delante del banco», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Przyimki miejsca”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 22,
+    "title": "Hay i estar",
+    "focus": "Istnienie kontra lokalizacja",
+    "explain": "Hay oznacza jest lub są w znaczeniu istnienia. Está lub están wskazuje lokalizację określonej rzeczy.",
+    "phrases": [
+      {
+        "es": "Hay un banco aquí",
+        "pl": "Jest tutaj bank"
+      },
+      {
+        "es": "El banco está aquí",
+        "pl": "Bank jest tutaj"
+      },
+      {
+        "es": "Hay dos restaurantes",
+        "pl": "Są dwie restauracje"
+      },
+      {
+        "es": "¿Hay una farmacia cerca?",
+        "pl": "Czy w pobliżu jest apteka?"
+      },
+      {
+        "es": "La estación está lejos",
+        "pl": "Stacja jest daleko"
+      },
+      {
+        "es": "No hay problema",
+        "pl": "Nie ma problemu"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: hay i estar. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Hay un banco aquí». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Hay dos restaurantes». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «La estación está lejos», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Hay i estar”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 23,
+    "title": "Pytanie o drogę",
+    "focus": "Imperativo w gotowych zwrotach",
+    "explain": "Skręć w prawo to gira a la derecha. Na początku zapamiętuj polecenia jako całe frazy.",
+    "phrases": [
+      {
+        "es": "¿Dónde está la estación?",
+        "pl": "Gdzie jest stacja?"
+      },
+      {
+        "es": "Siga recto",
+        "pl": "Proszę iść prosto"
+      },
+      {
+        "es": "Gire a la izquierda",
+        "pl": "Proszę skręcić w lewo"
+      },
+      {
+        "es": "Gire a la derecha",
+        "pl": "Proszę skręcić w prawo"
+      },
+      {
+        "es": "Está a cinco minutos",
+        "pl": "To pięć minut stąd"
+      },
+      {
+        "es": "¿Está lejos?",
+        "pl": "Czy to daleko?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: pytanie o drogę. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «¿Dónde está la estación?». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Gire a la izquierda». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Está a cinco minutos», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Pytanie o drogę”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 24,
+    "title": "Autobus i pociąg",
+    "focus": "Salir i llegar",
+    "explain": "Sale oznacza odjeżdża, llega przyjeżdża. Billete w Hiszpanii to bilet; ida y vuelta to w obie strony.",
+    "phrases": [
+      {
+        "es": "¿A qué hora sale el autobús?",
+        "pl": "O której odjeżdża autobus?"
+      },
+      {
+        "es": "Quiero un billete de ida",
+        "pl": "Chcę bilet w jedną stronę"
+      },
+      {
+        "es": "Ida y vuelta, por favor",
+        "pl": "W obie strony, proszę"
+      },
+      {
+        "es": "¿Dónde está la parada?",
+        "pl": "Gdzie jest przystanek?"
+      },
+      {
+        "es": "El tren llega a las ocho",
+        "pl": "Pociąg przyjeżdża o ósmej"
+      },
+      {
+        "es": "¿Es este el autobús correcto?",
+        "pl": "Czy to właściwy autobus?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: autobus i pociąg. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «¿A qué hora sale el autobús?». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Ida y vuelta, por favor». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «El tren llega a las ocho», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Autobus i pociąg”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 25,
+    "title": "W hotelu",
+    "focus": "Tener una reserva",
+    "explain": "Tengo una reserva to mam rezerwację. A nombre de oznacza na nazwisko. Używaj prostych zdań do wyjaśniania potrzeb.",
+    "phrases": [
+      {
+        "es": "Tengo una reserva",
+        "pl": "Mam rezerwację"
+      },
+      {
+        "es": "A nombre de Nowak",
+        "pl": "Na nazwisko Nowak"
+      },
+      {
+        "es": "¿A qué hora es el desayuno?",
+        "pl": "O której jest śniadanie?"
+      },
+      {
+        "es": "¿Dónde está mi habitación?",
+        "pl": "Gdzie jest mój pokój?"
+      },
+      {
+        "es": "Necesito otra llave",
+        "pl": "Potrzebuję drugiego klucza"
+      },
+      {
+        "es": "¿Hay wifi?",
+        "pl": "Czy jest Wi-Fi?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: w hotelu. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Tengo una reserva». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «¿A qué hora es el desayuno?». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Necesito otra llave», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „W hotelu”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 26,
+    "title": "Zakupy i porównania",
+    "focus": "Más, menos, que",
+    "explain": "Más ... que oznacza bardziej ... niż; menos ... que mniej ... niż. Zaimek este wskazuje ten.",
+    "phrases": [
+      {
+        "es": "¿Cuánto cuesta esto?",
+        "pl": "Ile to kosztuje?"
+      },
+      {
+        "es": "¿Tiene una talla más grande?",
+        "pl": "Czy mają Państwo większy rozmiar?"
+      },
+      {
+        "es": "Quiero este, por favor",
+        "pl": "Poproszę ten"
+      },
+      {
+        "es": "Es demasiado caro",
+        "pl": "To jest za drogie"
+      },
+      {
+        "es": "Este es más barato",
+        "pl": "Ten jest tańszy"
+      },
+      {
+        "es": "¿Puedo pagar con tarjeta?",
+        "pl": "Mogę zapłacić kartą?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: zakupy i porównania. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «¿Cuánto cuesta esto?». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Quiero este, por favor». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Este es más barato», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Zakupy i porównania”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 27,
+    "title": "Czasowniki zwrotne",
+    "focus": "Levantarse, ducharse, acostarse",
+    "explain": "Me levanto to wstaję, te levantas to wstajesz. Zaimki zwrotne stoją przed odmienionym czasownikiem.",
+    "phrases": [
+      {
+        "es": "Me levanto a las siete",
+        "pl": "Wstaję o siódmej"
+      },
+      {
+        "es": "Me ducho por la mañana",
+        "pl": "Biorę prysznic rano"
+      },
+      {
+        "es": "Me acuesto tarde",
+        "pl": "Kładę się późno"
+      },
+      {
+        "es": "¿A qué hora te levantas?",
+        "pl": "O której wstajesz?"
+      },
+      {
+        "es": "Nos levantamos temprano",
+        "pl": "Wstajemy wcześnie"
+      },
+      {
+        "es": "Me llamo Carlos",
+        "pl": "Nazywam się Carlos"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: czasowniki zwrotne. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Me levanto a las siete». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Me acuesto tarde». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Nos levantamos temprano», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Czasowniki zwrotne”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 28,
+    "title": "Rutyna i częstotliwość",
+    "focus": "Siempre, a veces, normalmente",
+    "explain": "Określenia częstotliwości pomagają mówić o nawykach. Zwykle stoją przed czasownikiem lub na początku zdania.",
+    "phrases": [
+      {
+        "es": "Siempre desayuno en casa",
+        "pl": "Zawsze jem śniadanie w domu"
+      },
+      {
+        "es": "A veces juego al tenis",
+        "pl": "Czasami gram w tenisa"
+      },
+      {
+        "es": "Normalmente trabajo por la mañana",
+        "pl": "Zwykle pracuję rano"
+      },
+      {
+        "es": "Nunca fumo",
+        "pl": "Nigdy nie palę"
+      },
+      {
+        "es": "Voy al gimnasio dos veces por semana",
+        "pl": "Chodzę na siłownię dwa razy w tygodniu"
+      },
+      {
+        "es": "Los domingos descanso",
+        "pl": "W niedziele odpoczywam"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: rutyna i częstotliwość. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Siempre desayuno en casa». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Normalmente trabajo por la mañana». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Voy al gimnasio dos veces por semana», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Rutyna i częstotliwość”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 29,
+    "title": "Ten, tamten, mój",
+    "focus": "Este, ese, mi, tu, su",
+    "explain": "Este jest blisko mówiącego, ese bliżej rozmówcy lub dalej. Mi i tu to mój i twój przed rzeczownikiem.",
+    "phrases": [
+      {
+        "es": "Este coche es mío",
+        "pl": "Ten samochód jest mój"
+      },
+      {
+        "es": "Esa mesa está libre",
+        "pl": "Tamten stolik jest wolny"
+      },
+      {
+        "es": "Mi habitación es pequeña",
+        "pl": "Mój pokój jest mały"
+      },
+      {
+        "es": "¿Dónde está tu hotel?",
+        "pl": "Gdzie jest twój hotel?"
+      },
+      {
+        "es": "Su nombre es Ana",
+        "pl": "Ona ma na imię Ana"
+      },
+      {
+        "es": "Quiero esos zapatos",
+        "pl": "Chcę tamte buty"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: ten, tamten, mój. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Este coche es mío». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Mi habitación es pequeña». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Su nombre es Ana», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Ten, tamten, mój”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 30,
+    "title": "Test podróżnika",
+    "focus": "Powtórka dni 21–29",
+    "explain": "Połącz pytanie o drogę, transport, hotel i zakupy w jedną praktyczną rozmowę.",
+    "phrases": [
+      {
+        "es": "¿Hay una farmacia cerca?",
+        "pl": "Czy jest apteka w pobliżu?"
+      },
+      {
+        "es": "¿A qué hora sale el tren?",
+        "pl": "O której odjeżdża pociąg?"
+      },
+      {
+        "es": "Tengo una reserva",
+        "pl": "Mam rezerwację"
+      },
+      {
+        "es": "¿Dónde está la parada?",
+        "pl": "Gdzie jest przystanek?"
+      },
+      {
+        "es": "Me levanto a las siete",
+        "pl": "Wstaję o siódmej"
+      },
+      {
+        "es": "Este es más barato",
+        "pl": "Ten jest tańszy"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: test podróżnika. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": true,
+    "speaking": [
+      "Zacznij od: «¿Hay una farmacia cerca?». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Tengo una reserva». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Me levanto a las siete», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Test podróżnika”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 31,
+    "title": "Plany: ir a + bezokolicznik",
+    "focus": "Bliska przyszłość",
+    "explain": "Voy a comer to zamierzam jeść. Odmieniasz ir, a drugi czasownik zostaje w bezokoliczniku.",
+    "phrases": [
+      {
+        "es": "Voy a viajar mañana",
+        "pl": "Jutro zamierzam podróżować"
+      },
+      {
+        "es": "Vamos a comer aquí",
+        "pl": "Zamierzamy tutaj zjeść"
+      },
+      {
+        "es": "¿Qué vas a hacer?",
+        "pl": "Co zamierzasz robić?"
+      },
+      {
+        "es": "Voy a ir a la playa",
+        "pl": "Pojadę na plażę"
+      },
+      {
+        "es": "No voy a trabajar mañana",
+        "pl": "Jutro nie będę pracować"
+      },
+      {
+        "es": "Ella va a reservar un hotel",
+        "pl": "Ona zarezerwuje hotel"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: plany: ir a + bezokolicznik. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Voy a viajar mañana». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «¿Qué vas a hacer?». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «No voy a trabajar mañana», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Plany: ir a + bezokolicznik”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 32,
+    "title": "Umawianie się",
+    "focus": "Propozycje i zaproszenia",
+    "explain": "¿Quieres...? to chcesz...? ¿Te apetece...? to masz ochotę...? Podemos + bezokolicznik oznacza możemy coś zrobić.",
+    "phrases": [
+      {
+        "es": "¿Quieres tomar un café?",
+        "pl": "Chcesz napić się kawy?"
+      },
+      {
+        "es": "¿Te apetece salir?",
+        "pl": "Masz ochotę wyjść?"
+      },
+      {
+        "es": "Podemos quedar mañana",
+        "pl": "Możemy spotkać się jutro"
+      },
+      {
+        "es": "¿A qué hora quedamos?",
+        "pl": "O której się spotykamy?"
+      },
+      {
+        "es": "No puedo hoy",
+        "pl": "Nie mogę dzisiaj"
+      },
+      {
+        "es": "Nos vemos a las seis",
+        "pl": "Widzimy się o szóstej"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: umawianie się. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «¿Quieres tomar un café?». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Podemos quedar mañana». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «No puedo hoy», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Umawianie się”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 33,
+    "title": "Przeszłość: pretérito perfecto",
+    "focus": "Haber + participio",
+    "explain": "He comido oznacza jadłem lub zjadłem. W Hiszpanii perfecto często dotyczy wydarzeń z okresu obejmującego teraźniejszość, np. hoy.",
+    "phrases": [
+      {
+        "es": "Hoy he trabajado",
+        "pl": "Dzisiaj pracowałem"
+      },
+      {
+        "es": "He comido paella",
+        "pl": "Jadłem paellę"
+      },
+      {
+        "es": "¿Has estado en Madrid?",
+        "pl": "Byłeś w Madrycie?"
+      },
+      {
+        "es": "Hemos llegado tarde",
+        "pl": "Przyjechaliśmy późno"
+      },
+      {
+        "es": "No he terminado",
+        "pl": "Nie skończyłem"
+      },
+      {
+        "es": "Esta semana he viajado",
+        "pl": "W tym tygodniu podróżowałem"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: przeszłość: pretérito perfecto. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Hoy he trabajado». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «¿Has estado en Madrid?». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «No he terminado», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Przeszłość: pretérito perfecto”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 34,
+    "title": "Imiesłowy i wyjątki",
+    "focus": "Hecho, visto, dicho",
+    "explain": "Regularne imiesłowy mają -ado i -ido. Częste wyjątki: hacer→hecho, ver→visto, decir→dicho, escribir→escrito.",
+    "phrases": [
+      {
+        "es": "He hecho la reserva",
+        "pl": "Zrobiłem rezerwację"
+      },
+      {
+        "es": "He visto el museo",
+        "pl": "Widziałem muzeum"
+      },
+      {
+        "es": "He dicho la verdad",
+        "pl": "Powiedziałem prawdę"
+      },
+      {
+        "es": "He escrito un mensaje",
+        "pl": "Napisałem wiadomość"
+      },
+      {
+        "es": "He abierto la puerta",
+        "pl": "Otworzyłem drzwi"
+      },
+      {
+        "es": "He comprado los billetes",
+        "pl": "Kupiłem bilety"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: imiesłowy i wyjątki. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «He hecho la reserva». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «He dicho la verdad». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «He abierto la puerta», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Imiesłowy i wyjątki”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 35,
+    "title": "Doświadczenia życiowe",
+    "focus": "Alguna vez, nunca, ya, todavía",
+    "explain": "¿Has estado alguna vez...? pyta o doświadczenie. Ya oznacza już, todavía no jeszcze nie.",
+    "phrases": [
+      {
+        "es": "¿Has estado alguna vez en Sevilla?",
+        "pl": "Byłeś kiedyś w Sewilli?"
+      },
+      {
+        "es": "Nunca he estado allí",
+        "pl": "Nigdy tam nie byłem"
+      },
+      {
+        "es": "Ya he comido",
+        "pl": "Już jadłem"
+      },
+      {
+        "es": "Todavía no he pagado",
+        "pl": "Jeszcze nie zapłaciłem"
+      },
+      {
+        "es": "He visitado Barcelona",
+        "pl": "Odwiedziłem Barcelonę"
+      },
+      {
+        "es": "¿Has probado la tortilla?",
+        "pl": "Próbowałeś tortilli?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: doświadczenia życiowe. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «¿Has estado alguna vez en Sevilla?». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Ya he comido». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «He visitado Barcelona», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Doświadczenia życiowe”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 36,
+    "title": "Przeszłość: indefinido",
+    "focus": "Regularne formy przeszłe",
+    "explain": "Indefinido opisuje zakończone zdarzenia w określonej przeszłości. Hablé, comí, viví to mówiłem, jadłem, mieszkałem.",
+    "phrases": [
+      {
+        "es": "Ayer trabajé",
+        "pl": "Wczoraj pracowałem"
+      },
+      {
+        "es": "Anoche cené fuera",
+        "pl": "Wczoraj wieczorem jadłem kolację poza domem"
+      },
+      {
+        "es": "Compré un billete",
+        "pl": "Kupiłem bilet"
+      },
+      {
+        "es": "El año pasado viví aquí",
+        "pl": "W zeszłym roku mieszkałem tutaj"
+      },
+      {
+        "es": "Visitamos el museo",
+        "pl": "Odwiedziliśmy muzeum"
+      },
+      {
+        "es": "¿Comiste ayer?",
+        "pl": "Jadłeś wczoraj?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: przeszłość: indefinido. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Ayer trabajé». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Compré un billete». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Visitamos el museo», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Przeszłość: indefinido”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 37,
+    "title": "Przeszłość nieregularna",
+    "focus": "Fui, hice, tuve, estuve",
+    "explain": "Najważniejsze nieregularne formy w indefinido: fui, hice, tuve, estuve. Fui może pochodzić od ser lub ir.",
+    "phrases": [
+      {
+        "es": "Ayer fui al centro",
+        "pl": "Wczoraj poszedłem do centrum"
+      },
+      {
+        "es": "Hice una reserva",
+        "pl": "Zrobiłem rezerwację"
+      },
+      {
+        "es": "Tuve un problema",
+        "pl": "Miałem problem"
+      },
+      {
+        "es": "Estuve en el hotel",
+        "pl": "Byłem w hotelu"
+      },
+      {
+        "es": "Fuimos a la playa",
+        "pl": "Poszliśmy na plażę"
+      },
+      {
+        "es": "¿Qué hiciste ayer?",
+        "pl": "Co robiłeś wczoraj?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: przeszłość nieregularna. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Ayer fui al centro». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Tuve un problema». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Fuimos a la playa», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Przeszłość nieregularna”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 38,
+    "title": "Kiedy to się stało?",
+    "focus": "Ayer, anoche, hace dos días",
+    "explain": "Określenia zamkniętej przeszłości często łączą się z indefinido: ayer, el año pasado, hace una semana.",
+    "phrases": [
+      {
+        "es": "Ayer compré pan",
+        "pl": "Wczoraj kupiłem chleb"
+      },
+      {
+        "es": "Anoche dormí bien",
+        "pl": "Wczoraj w nocy dobrze spałem"
+      },
+      {
+        "es": "Hace dos días llegué",
+        "pl": "Przyjechałem dwa dni temu"
+      },
+      {
+        "es": "La semana pasada viajé",
+        "pl": "W zeszłym tygodniu podróżowałem"
+      },
+      {
+        "es": "El lunes fui al médico",
+        "pl": "W poniedziałek poszedłem do lekarza"
+      },
+      {
+        "es": "En 2020 viví aquí",
+        "pl": "W 2020 roku mieszkałem tutaj"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: kiedy to się stało?. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Ayer compré pan». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Hace dos días llegué». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «El lunes fui al médico», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Kiedy to się stało?”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 39,
+    "title": "Dwie przeszłości w Hiszpanii",
+    "focus": "Perfecto kontra indefinido",
+    "explain": "W wielu odmianach hiszpańskiego perfecto i indefinido różnią się użyciem. W Hiszpanii hoy he comido, ale ayer comí to częsty wzorzec.",
+    "phrases": [
+      {
+        "es": "Hoy he comido temprano",
+        "pl": "Dzisiaj jadłem wcześnie"
+      },
+      {
+        "es": "Ayer comí tarde",
+        "pl": "Wczoraj jadłem późno"
+      },
+      {
+        "es": "Esta semana he trabajado mucho",
+        "pl": "W tym tygodniu dużo pracowałem"
+      },
+      {
+        "es": "La semana pasada trabajé mucho",
+        "pl": "W zeszłym tygodniu dużo pracowałem"
+      },
+      {
+        "es": "¿Has visto esta película?",
+        "pl": "Widziałeś ten film?"
+      },
+      {
+        "es": "El domingo vi a Ana",
+        "pl": "W niedzielę widziałem Anę"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: dwie przeszłości w hiszpanii. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Hoy he comido temprano». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Esta semana he trabajado mucho». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «¿Has visto esta película?», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Dwie przeszłości w Hiszpanii”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 40,
+    "title": "Test: wczoraj i jutro",
+    "focus": "Powtórka dni 31–39",
+    "explain": "Opowiedz trzy rzeczy z wczoraj, jedną z dzisiaj i dwa plany na jutro. Wybierz właściwy czas.",
+    "phrases": [
+      {
+        "es": "Ayer fui a un restaurante",
+        "pl": "Wczoraj poszedłem do restauracji"
+      },
+      {
+        "es": "Hoy he trabajado",
+        "pl": "Dzisiaj pracowałem"
+      },
+      {
+        "es": "Mañana voy a descansar",
+        "pl": "Jutro odpocznę"
+      },
+      {
+        "es": "Hice una reserva",
+        "pl": "Zrobiłem rezerwację"
+      },
+      {
+        "es": "¿Qué vas a hacer mañana?",
+        "pl": "Co zamierzasz robić jutro?"
+      },
+      {
+        "es": "Nunca he estado allí",
+        "pl": "Nigdy tam nie byłem"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: test: wczoraj i jutro. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": true,
+    "speaking": [
+      "Zacznij od: «Ayer fui a un restaurante». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Mañana voy a descansar». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «¿Qué vas a hacer mañana?», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Test: wczoraj i jutro”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 41,
+    "title": "Imperfecto: opisy przeszłości",
+    "focus": "Era, tenía, vivía",
+    "explain": "Imperfecto służy do opisów, nawyków i tła w przeszłości. Era byłem, tenía miałem, vivía mieszkałem.",
+    "phrases": [
+      {
+        "es": "Antes vivía en Polonia",
+        "pl": "Kiedyś mieszkałem w Polsce"
+      },
+      {
+        "es": "Cuando era niño jugaba mucho",
+        "pl": "Kiedy byłem dzieckiem dużo grałem"
+      },
+      {
+        "es": "Tenía un coche rojo",
+        "pl": "Miałem czerwony samochód"
+      },
+      {
+        "es": "Hacía frío",
+        "pl": "Było zimno"
+      },
+      {
+        "es": "Siempre desayunaba temprano",
+        "pl": "Zawsze jadłem wcześnie śniadanie"
+      },
+      {
+        "es": "Mi casa era pequeña",
+        "pl": "Mój dom był mały"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: imperfecto: opisy przeszłości. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Antes vivía en Polonia». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Tenía un coche rojo». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Siempre desayunaba temprano», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Imperfecto: opisy przeszłości”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 42,
+    "title": "Dawne zwyczaje",
+    "focus": "Imperfecto i częstotliwość",
+    "explain": "Antes i de pequeño często zapowiadają opowieść o dawnych zwyczajach. Nie opisują pojedynczego zakończonego wydarzenia.",
+    "phrases": [
+      {
+        "es": "Antes jugaba al fútbol",
+        "pl": "Kiedyś grałem w piłkę nożną"
+      },
+      {
+        "es": "De pequeño vivía en Polonia",
+        "pl": "Jako dziecko mieszkałem w Polsce"
+      },
+      {
+        "es": "Siempre íbamos al parque",
+        "pl": "Zawsze chodziliśmy do parku"
+      },
+      {
+        "es": "Mi padre trabajaba mucho",
+        "pl": "Mój ojciec dużo pracował"
+      },
+      {
+        "es": "No tenía tiempo",
+        "pl": "Nie miałem czasu"
+      },
+      {
+        "es": "Los domingos descansábamos",
+        "pl": "W niedziele odpoczywaliśmy"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: dawne zwyczaje. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Antes jugaba al fútbol». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Siempre íbamos al parque». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «No tenía tiempo», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Dawne zwyczaje”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 43,
+    "title": "Zdarzenie i tło",
+    "focus": "Indefinido kontra imperfecto",
+    "explain": "Indefinido to konkretne zdarzenie, imperfecto to tło lub trwający stan. Przykład: llovía cuando llegué.",
+    "phrases": [
+      {
+        "es": "Llovía cuando llegué",
+        "pl": "Padało, kiedy przyjechałem"
+      },
+      {
+        "es": "Estaba cansado y me acosté",
+        "pl": "Byłem zmęczony i położyłem się spać"
+      },
+      {
+        "es": "Ayer vi a un amigo",
+        "pl": "Wczoraj zobaczyłem kolegę"
+      },
+      {
+        "es": "Antes vivía aquí",
+        "pl": "Kiedyś tutaj mieszkałem"
+      },
+      {
+        "es": "Hacía sol cuando salimos",
+        "pl": "Świeciło słońce, kiedy wyszliśmy"
+      },
+      {
+        "es": "Mientras comía, sonó el teléfono",
+        "pl": "Kiedy jadłem, zadzwonił telefon"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: zdarzenie i tło. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Llovía cuando llegué». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Ayer vi a un amigo». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Hacía sol cuando salimos», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Zdarzenie i tło”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 44,
+    "title": "Zaimki: lo i la",
+    "focus": "Dopełnienie bliższe",
+    "explain": "Lo zastępuje rzeczownik męski, la żeński. Zaimki stoją zwykle przed odmienionym czasownikiem.",
+    "phrases": [
+      {
+        "es": "Lo quiero",
+        "pl": "Chcę to"
+      },
+      {
+        "es": "La conozco",
+        "pl": "Znam ją"
+      },
+      {
+        "es": "¿Tienes el billete? Sí, lo tengo",
+        "pl": "Masz bilet? Tak, mam go"
+      },
+      {
+        "es": "No lo entiendo",
+        "pl": "Nie rozumiem tego"
+      },
+      {
+        "es": "La compro mañana",
+        "pl": "Kupię ją jutro"
+      },
+      {
+        "es": "Los veo aquí",
+        "pl": "Widzę ich tutaj"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: zaimki: lo i la. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Lo quiero». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «¿Tienes el billete? Sí, lo tengo». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «La compro mañana», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Zaimki: lo i la”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 45,
+    "title": "Zaimki: me, te, le",
+    "focus": "Dopełnienie dalsze",
+    "explain": "Me, te, le mogą znaczyć mi, ci, mu lub jej. Często pojawiają się przy dawać, mówić, pomagać.",
+    "phrases": [
+      {
+        "es": "¿Me ayudas?",
+        "pl": "Pomożesz mi?"
+      },
+      {
+        "es": "Te doy el número",
+        "pl": "Daję ci numer"
+      },
+      {
+        "es": "Le escribo mañana",
+        "pl": "Napiszę do niego lub do niej jutro"
+      },
+      {
+        "es": "¿Me puede decir la hora?",
+        "pl": "Czy może mi Pan podać godzinę?"
+      },
+      {
+        "es": "Te llamo luego",
+        "pl": "Zadzwonię do ciebie później"
+      },
+      {
+        "es": "Le doy las gracias",
+        "pl": "Dziękuję mu lub jej"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: zaimki: me, te, le. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «¿Me ayudas?». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Le escribo mañana». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Te llamo luego», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Zaimki: me, te, le”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 46,
+    "title": "Por i para",
+    "focus": "Cel kontra przyczyna",
+    "explain": "Para często wskazuje cel lub odbiorcę, por przyczynę, drogę lub wymianę. To wprowadzenie, nie wszystkie zastosowania.",
+    "phrases": [
+      {
+        "es": "Esto es para ti",
+        "pl": "To jest dla ciebie"
+      },
+      {
+        "es": "Estudio para aprender",
+        "pl": "Uczę się, żeby się nauczyć"
+      },
+      {
+        "es": "Gracias por tu ayuda",
+        "pl": "Dziękuję za pomoc"
+      },
+      {
+        "es": "Paso por el centro",
+        "pl": "Przechodzę przez centrum"
+      },
+      {
+        "es": "Trabajo por dinero",
+        "pl": "Pracuję dla pieniędzy"
+      },
+      {
+        "es": "Salgo para Madrid",
+        "pl": "Wyjeżdżam do Madrytu"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: por i para. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Esto es para ti». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Gracias por tu ayuda». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Trabajo por dinero», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Por i para”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 47,
+    "title": "W aptece",
+    "focus": "Objawy i prośby",
+    "explain": "Me duele la cabeza to boli mnie głowa. Tengo fiebre to mam gorączkę. W nagłym przypadku powiedz necesito ayuda.",
+    "phrases": [
+      {
+        "es": "Me duele la cabeza",
+        "pl": "Boli mnie głowa"
+      },
+      {
+        "es": "Tengo fiebre",
+        "pl": "Mam gorączkę"
+      },
+      {
+        "es": "Necesito una farmacia",
+        "pl": "Potrzebuję apteki"
+      },
+      {
+        "es": "¿Tiene algo para el dolor?",
+        "pl": "Czy ma Pan coś na ból?"
+      },
+      {
+        "es": "Soy alérgico a la penicilina",
+        "pl": "Mam alergię na penicylinę"
+      },
+      {
+        "es": "Necesito ayuda",
+        "pl": "Potrzebuję pomocy"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: w aptece. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Me duele la cabeza». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Necesito una farmacia». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Soy alérgico a la penicilina», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „W aptece”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 48,
+    "title": "Reklamacje i problemy",
+    "focus": "No funciona, falta, está roto",
+    "explain": "Opisuj problem konkretnie: no funciona nie działa, falta brakuje, está roto jest zepsute.",
+    "phrases": [
+      {
+        "es": "La ducha no funciona",
+        "pl": "Prysznic nie działa"
+      },
+      {
+        "es": "La habitación está sucia",
+        "pl": "Pokój jest brudny"
+      },
+      {
+        "es": "Falta una toalla",
+        "pl": "Brakuje ręcznika"
+      },
+      {
+        "es": "He perdido mi llave",
+        "pl": "Zgubiłem klucz"
+      },
+      {
+        "es": "Quiero cambiar de habitación",
+        "pl": "Chcę zmienić pokój"
+      },
+      {
+        "es": "¿Puede ayudarme?",
+        "pl": "Czy może mi Pan pomóc?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: reklamacje i problemy. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «La ducha no funciona». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Falta una toalla». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Quiero cambiar de habitación», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Reklamacje i problemy”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 49,
+    "title": "Uprzejme prośby",
+    "focus": "Podría, quisiera, me gustaría",
+    "explain": "Podría to czy mógłby, quisiera to chciałbym. Te formy brzmią łagodniej niż quiero.",
+    "phrases": [
+      {
+        "es": "¿Podría ayudarme?",
+        "pl": "Czy mógłby mi Pan pomóc?"
+      },
+      {
+        "es": "Quisiera una habitación tranquila",
+        "pl": "Chciałbym cichy pokój"
+      },
+      {
+        "es": "Me gustaría pagar ahora",
+        "pl": "Chciałbym zapłacić teraz"
+      },
+      {
+        "es": "¿Podría repetirlo?",
+        "pl": "Czy mógłby Pan to powtórzyć?"
+      },
+      {
+        "es": "Quisiera cambiar la reserva",
+        "pl": "Chciałbym zmienić rezerwację"
+      },
+      {
+        "es": "¿Podría hablar más despacio?",
+        "pl": "Czy mógłby Pan mówić wolniej?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: uprzejme prośby. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «¿Podría ayudarme?». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Me gustaría pagar ahora». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Quisiera cambiar la reserva», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Uprzejme prośby”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 50,
+    "title": "Test rozwiązywania problemów",
+    "focus": "Powtórka dni 41–49",
+    "explain": "Wyjaśnij problem, poproś o rozwiązanie i opowiedz, co się stało. Mów pełnymi zdaniami.",
+    "phrases": [
+      {
+        "es": "La ducha no funciona",
+        "pl": "Prysznic nie działa"
+      },
+      {
+        "es": "¿Podría ayudarme?",
+        "pl": "Czy mógłby mi Pan pomóc?"
+      },
+      {
+        "es": "Ayer perdí mi llave",
+        "pl": "Wczoraj zgubiłem klucz"
+      },
+      {
+        "es": "Antes vivía en Polonia",
+        "pl": "Kiedyś mieszkałem w Polsce"
+      },
+      {
+        "es": "Gracias por su ayuda",
+        "pl": "Dziękuję za Pańską pomoc"
+      },
+      {
+        "es": "Quiero cambiar la reserva",
+        "pl": "Chcę zmienić rezerwację"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: test rozwiązywania problemów. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": true,
+    "speaking": [
+      "Zacznij od: «La ducha no funciona». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Ayer perdí mi llave». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Gracias por su ayuda», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Test rozwiązywania problemów”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 51,
+    "title": "Łączenie zdań",
+    "focus": "Porque, pero, aunque, entonces",
+    "explain": "Łączniki sprawiają, że rozmowa brzmi naturalnie. Porque to ponieważ, pero to ale, aunque to chociaż.",
+    "phrases": [
+      {
+        "es": "Estoy cansado porque trabajé mucho",
+        "pl": "Jestem zmęczony, bo dużo pracowałem"
+      },
+      {
+        "es": "Quiero ir, pero no puedo",
+        "pl": "Chcę iść, ale nie mogę"
+      },
+      {
+        "es": "Aunque llueve, salgo",
+        "pl": "Chociaż pada, wychodzę"
+      },
+      {
+        "es": "No tengo tiempo, entonces voy mañana",
+        "pl": "Nie mam czasu, więc pójdę jutro"
+      },
+      {
+        "es": "Me gusta, pero es caro",
+        "pl": "Podoba mi się, ale jest drogie"
+      },
+      {
+        "es": "Estudio porque quiero hablar español",
+        "pl": "Uczę się, bo chcę mówić po hiszpańsku"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: łączenie zdań. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Estoy cansado porque trabajé mucho». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Aunque llueve, salgo». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Me gusta, pero es caro», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Łączenie zdań”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 52,
+    "title": "Opinie i preferencje",
+    "focus": "Creo que, pienso que, prefiero",
+    "explain": "Creo que oznacza myślę, że; prefiero to wolę. Połącz opinię z krótkim uzasadnieniem.",
+    "phrases": [
+      {
+        "es": "Creo que es buena idea",
+        "pl": "Myślę, że to dobry pomysł"
+      },
+      {
+        "es": "Pienso que es demasiado caro",
+        "pl": "Uważam, że to za drogie"
+      },
+      {
+        "es": "Prefiero el tren",
+        "pl": "Wolę pociąg"
+      },
+      {
+        "es": "Para mí es importante",
+        "pl": "Dla mnie to ważne"
+      },
+      {
+        "es": "No estoy de acuerdo",
+        "pl": "Nie zgadzam się"
+      },
+      {
+        "es": "Me parece interesante",
+        "pl": "Wydaje mi się interesujące"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: opinie i preferencje. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Creo que es buena idea». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Prefiero el tren». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «No estoy de acuerdo», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Opinie i preferencje”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 53,
+    "title": "Rozmowy telefoniczne",
+    "focus": "¿Puedo hablar con...?",
+    "explain": "Przez telefon mów wolniej i potwierdzaj szczegóły. ¿De parte de quién? znaczy kto mówi?",
+    "phrases": [
+      {
+        "es": "¿Puedo hablar con Ana?",
+        "pl": "Czy mogę rozmawiać z Aną?"
+      },
+      {
+        "es": "¿De parte de quién?",
+        "pl": "Kto mówi?"
+      },
+      {
+        "es": "Le llamo más tarde",
+        "pl": "Zadzwonię do Pana później"
+      },
+      {
+        "es": "¿Puede repetir el número?",
+        "pl": "Czy może Pan powtórzyć numer?"
+      },
+      {
+        "es": "No le oigo bien",
+        "pl": "Słabo Pana słyszę"
+      },
+      {
+        "es": "¿A qué hora quedamos?",
+        "pl": "Na którą się umawiamy?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: rozmowy telefoniczne. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «¿Puedo hablar con Ana?». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Le llamo más tarde». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «No le oigo bien», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Rozmowy telefoniczne”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 54,
+    "title": "Rodzina, praca, hobby",
+    "focus": "Rozmowa o sobie",
+    "explain": "Łącz ser, tener, trabajar i gustar. Opowiedz o sobie w sześciu zdaniach bez czytania.",
+    "phrases": [
+      {
+        "es": "Soy de Polonia",
+        "pl": "Jestem z Polski"
+      },
+      {
+        "es": "Vivo en Irlanda",
+        "pl": "Mieszkam w Irlandii"
+      },
+      {
+        "es": "Tengo dos hijas",
+        "pl": "Mam dwie córki"
+      },
+      {
+        "es": "Trabajo en transporte",
+        "pl": "Pracuję w transporcie"
+      },
+      {
+        "es": "Me gusta jugar al tenis",
+        "pl": "Lubię grać w tenisa"
+      },
+      {
+        "es": "Aprendo español",
+        "pl": "Uczę się hiszpańskiego"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: rodzina, praca, hobby. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Soy de Polonia». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Tengo dos hijas». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Me gusta jugar al tenis», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Rodzina, praca, hobby”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 55,
+    "title": "Symulacja: przyjazd",
+    "focus": "Lotnisko, transfer i hotel",
+    "explain": "Połącz trzy sytuacje. Najpierw zadaj pytanie, potem potwierdź odpowiedź, na koniec podziękuj.",
+    "phrases": [
+      {
+        "es": "¿Dónde está la salida?",
+        "pl": "Gdzie jest wyjście?"
+      },
+      {
+        "es": "¿Cuánto cuesta el taxi?",
+        "pl": "Ile kosztuje taksówka?"
+      },
+      {
+        "es": "Voy al centro",
+        "pl": "Jadę do centrum"
+      },
+      {
+        "es": "Tengo una reserva",
+        "pl": "Mam rezerwację"
+      },
+      {
+        "es": "¿A qué hora es el desayuno?",
+        "pl": "O której jest śniadanie?"
+      },
+      {
+        "es": "Muchas gracias por su ayuda",
+        "pl": "Bardzo dziękuję za pomoc"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: symulacja: przyjazd. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «¿Dónde está la salida?». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Voy al centro». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «¿A qué hora es el desayuno?», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Symulacja: przyjazd”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 56,
+    "title": "Symulacja: restauracja i zakupy",
+    "focus": "Zamawianie i wybory",
+    "explain": "Użyj querer, gustar, poder, cen i uprzejmych próśb. Ćwicz rozmowę bez podglądu.",
+    "phrases": [
+      {
+        "es": "Me gustaría una mesa para dos",
+        "pl": "Chciałbym stolik dla dwóch osób"
+      },
+      {
+        "es": "¿Qué recomienda?",
+        "pl": "Co Pan poleca?"
+      },
+      {
+        "es": "Sin cebolla, por favor",
+        "pl": "Bez cebuli, proszę"
+      },
+      {
+        "es": "La cuenta, por favor",
+        "pl": "Rachunek, proszę"
+      },
+      {
+        "es": "¿Tiene una talla más grande?",
+        "pl": "Czy ma Pan większy rozmiar?"
+      },
+      {
+        "es": "¿Puedo pagar con tarjeta?",
+        "pl": "Czy mogę zapłacić kartą?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: symulacja: restauracja i zakupy. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Me gustaría una mesa para dos». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Sin cebolla, por favor». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «¿Tiene una talla más grande?», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Symulacja: restauracja i zakupy”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 57,
+    "title": "Symulacja: zwiedzanie",
+    "focus": "Droga, transport i czas",
+    "explain": "Ćwicz pytanie o kierunek, cenę biletu i godzinę. Dodaj zdanie o swoim planie.",
+    "phrases": [
+      {
+        "es": "¿Dónde está el museo?",
+        "pl": "Gdzie jest muzeum?"
+      },
+      {
+        "es": "¿Está lejos de aquí?",
+        "pl": "Czy to daleko stąd?"
+      },
+      {
+        "es": "Quiero dos billetes",
+        "pl": "Chcę dwa bilety"
+      },
+      {
+        "es": "¿A qué hora cierra?",
+        "pl": "O której zamykają?"
+      },
+      {
+        "es": "Vamos a visitar el centro",
+        "pl": "Zamierzamy zwiedzić centrum"
+      },
+      {
+        "es": "¿Hay una parada cerca?",
+        "pl": "Czy jest przystanek w pobliżu?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: symulacja: zwiedzanie. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «¿Dónde está el museo?». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Quiero dos billetes». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Vamos a visitar el centro», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Symulacja: zwiedzanie”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 58,
+    "title": "Symulacja: nieprzewidziane sytuacje",
+    "focus": "Wyjaśnianie problemów",
+    "explain": "Powiedz, co się stało, czego potrzebujesz i o co prosisz. Zastosuj czas przeszły i uprzejmą prośbę.",
+    "phrases": [
+      {
+        "es": "He perdido mi teléfono",
+        "pl": "Zgubiłem telefon"
+      },
+      {
+        "es": "Mi habitación no está lista",
+        "pl": "Mój pokój nie jest gotowy"
+      },
+      {
+        "es": "¿Podría ayudarme?",
+        "pl": "Czy mógłby mi Pan pomóc?"
+      },
+      {
+        "es": "Necesito cambiar la reserva",
+        "pl": "Muszę zmienić rezerwację"
+      },
+      {
+        "es": "Ayer tuve un problema",
+        "pl": "Wczoraj miałem problem"
+      },
+      {
+        "es": "No entiendo la información",
+        "pl": "Nie rozumiem informacji"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: symulacja: nieprzewidziane sytuacje. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «He perdido mi teléfono». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «¿Podría ayudarme?». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Ayer tuve un problema», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Symulacja: nieprzewidziane sytuacje”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 59,
+    "title": "Duża powtórka",
+    "focus": "Ser, estar, czasy i pytania",
+    "explain": "Przejdź przez podstawy i trudne konstrukcje. Najważniejsze jest samodzielne formułowanie zdań.",
+    "phrases": [
+      {
+        "es": "Soy de Polonia, pero vivo en Irlanda",
+        "pl": "Jestem z Polski, ale mieszkam w Irlandii"
+      },
+      {
+        "es": "¿Cuánto cuesta este billete?",
+        "pl": "Ile kosztuje ten bilet?"
+      },
+      {
+        "es": "Quiero reservar una mesa",
+        "pl": "Chcę zarezerwować stolik"
+      },
+      {
+        "es": "Ayer fui a un restaurante",
+        "pl": "Wczoraj poszedłem do restauracji"
+      },
+      {
+        "es": "Mañana voy a ir a la playa",
+        "pl": "Jutro pojadę na plażę"
+      },
+      {
+        "es": "¿Podría hablar más despacio?",
+        "pl": "Czy mógłby Pan mówić wolniej?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: duża powtórka. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": false,
+    "speaking": [
+      "Zacznij od: «Soy de Polonia, pero vivo en Irlanda». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Quiero reservar una mesa». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «Mañana voy a ir a la playa», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Duża powtórka”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  },
+  {
+    "day": 60,
+    "title": "Egzamin końcowy",
+    "focus": "Samodzielne wypowiedzi",
+    "explain": "To test kontrolny. Użyj pełnych zdań, najpierw powiedz, później zapisz. Oceniaj swoje odpowiedzi uczciwie.",
+    "phrases": [
+      {
+        "es": "Me llamo Carlos y soy de Polonia",
+        "pl": "Nazywam się Carlos i jestem z Polski"
+      },
+      {
+        "es": "Vivo en Irlanda y trabajo aquí",
+        "pl": "Mieszkam w Irlandii i tutaj pracuję"
+      },
+      {
+        "es": "Ayer compré un billete",
+        "pl": "Wczoraj kupiłem bilet"
+      },
+      {
+        "es": "Mañana voy a visitar Madrid",
+        "pl": "Jutro zamierzam odwiedzić Madryt"
+      },
+      {
+        "es": "¿Podría reservar una mesa para dos?",
+        "pl": "Czy mógłby Pan zarezerwować stolik dla dwóch osób?"
+      },
+      {
+        "es": "No entiendo, ¿puede repetirlo?",
+        "pl": "Nie rozumiem, czy może Pan powtórzyć?"
+      }
+    ],
+    "challenge": "Wyobraź sobie rozmowę na temat: egzamin końcowy. Użyj przynajmniej czterech poznanych zdań, a następnie zamień role i odpowiedz jako druga osoba.",
+    "checkpoint": true,
+    "speaking": [
+      "Zacznij od: «Me llamo Carlos y soy de Polonia». Powiedz to bez czytania i dodaj własny szczegół.",
+      "Wyobraź sobie, że rozmówca mówi: «Ayer compré un billete». Odpowiedz na głos w tej samej sytuacji.",
+      "Użyj konstrukcji ze zdania «¿Podría reservar una mesa para dos?», ale zmień przynajmniej jeden element."
+    ],
+    "writing": "Ułóż 3–5 zdań na temat „Egzamin końcowy”. Użyj przynajmniej dwóch konstrukcji z dzisiejszej lekcji."
+  }
+]

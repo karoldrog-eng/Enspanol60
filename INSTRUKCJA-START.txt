@@ -1,0 +1,30 @@
+ESPAÑOL 60 — PEŁNY KURS (wersja 3)
+
+ZAWARTOŚĆ: 60 lekcji, 360 zdań i zwrotów, 6 etapów na lekcję, 6 lekcji kontrolnych, powtórki, synteza mowy, mikrofon (zależnie od przeglądarki), kopie postępów.
+
+PRZED AKTUALIZACJĄ
+1. W starej aplikacji: Ustawienia -> Pobierz kopię postępów. Zachowaj plik JSON.
+2. Nie usuwaj danych Chrome ani starej aplikacji przed sprawdzeniem aktualizacji.
+
+GITHUB
+1. Rozpakuj ten ZIP na komputerze.
+2. Otwórz https://github.com/karoldrog-eng/Enspanol60
+3. Wybierz Add file -> Upload files.
+4. Przeciągnij PLIKI ZE ŚRODKA rozpakowanego folderu (nie sam folder): index.html, app.js, lessons.json, sw.js, manifest.webmanifest, icon-192.png, icon-512.png, INSTRUKCJA-START.txt.
+5. Zatwierdź: Commit changes. Zastąp pliki o tych samych nazwach. Nie usuwaj repozytorium.
+6. Otwórz Settings -> Pages i sprawdź: Deploy from a branch, main, /(root).
+7. Po kilku minutach otwórz https://karoldrog-eng.github.io/Enspanol60/
+8. Jeżeli widzisz starą wersję, zamknij aplikację, otwórz link w Chrome i odśwież; poczekaj na aktualizację service workera.
+
+TELEFON (Redmi Note 13 Pro)
+1. Otwórz adres w Chrome na telefonie.
+2. Menu Chrome (trzy kropki) -> Zainstaluj aplikację / Dodaj do ekranu głównego.
+3. Jeżeli była już zainstalowana, uruchom ją ponownie po odświeżeniu strony w Chrome; zwykle nie trzeba instalować drugi raz.
+4. Jeśli nie widzisz postępów: Ustawienia -> Przywróć kopię JSON.
+5. Wybierz Dzień 1. Na 30–45 minut wykonaj wszystkie 6 etapów bez skracania; na 60 minut dodaj powtórki i drugi dialog.
+
+UWAGI
+- Działa bez abonamentu i bez konta, GitHub Pages jest publiczny, ale postępy są lokalne w telefonie.
+- Rozpoznawanie mowy i głos mogą wymagać internetu i zależą od Android/Chrome.
+- Ocenianie odpowiedzi jest uproszczone. Inne poprawne zdania mogą zostać uznane za błędne; aplikacja pokazuje wzorzec.
+- Kurs ma 360 głównych zwrotów, nie ma jeszcze swobodnego czatu z nauczycielem AI.
